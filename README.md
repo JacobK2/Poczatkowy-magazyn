@@ -1,0 +1,2 @@
+# Poczatkowy-magazyn
+ 
