@@ -1,0 +1,20 @@
+C:\Users\niewi\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\niewi\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\niewi\Desktop\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\niewi\Desktop\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\niewi\Desktop\Projekt\Projekt\obj\Debug\Projekt.OknoGłówne.resources
+C:\Users\niewi\Desktop\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\niewi\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\niewi\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\niewi\Desktop\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\niewi\Desktop\Projekt\Projekt\obj\Debug\Projekt.pdb
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\bin\Debug\Projekt.exe.config
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\bin\Debug\Projekt.exe
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\bin\Debug\Projekt.pdb
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\obj\Debug\Projekt.OknoGłówne.resources
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\obj\Debug\Projekt.exe
+E:\Wazne\Studia\Informatyka_eksoc\1 rok\ProjektProgramowanieObiektowe\Projekt\Projekt\obj\Debug\Projekt.pdb
